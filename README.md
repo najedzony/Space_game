@@ -19,8 +19,10 @@ In this game, you need to eliminate enemy ships, before they kill you! Every sho
 
 ## Controls
 
+```
 Left arrow - going left
 Up arrow - going up
 Down arrow - going down
 Right arrow - going down
 Space - shoot
+```
